@@ -1,0 +1,38 @@
+*{
+    margin: 0px;
+}
+
+  body {
+    background: linear-gradient(purple,black);
+  }
+
+
+
+
+.post {
+    background-color: plum;
+    width: 800px;
+    
+    margin: 50px auto ;
+    padding-left: 100px;
+    padding-right: 100px;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    border-right: 10px solid rgb(138, 5, 67);
+    border-bottom:  10px solid rgb(138, 5, 67);
+}
+.post img {
+    width: 200px;
+    
+}
+.post p {
+    color: purple;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-weight: normal;
+    font-style: italic;
+}
+.post h2 {
+    color: rgb(8, 8, 139);
+    font-family: Edwardian Script ITC;
+    font-size: 30px;
+} 
