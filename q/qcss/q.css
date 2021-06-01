@@ -1,0 +1,34 @@
+* {
+  margin: 0px;
+}
+body {
+  background: radial-gradient(purple, plum);
+}
+.b-1 {
+  width: 50%;
+  height: 300px;
+  background: linear-gradient(purple, pink, red);
+  border-radius: 3vmin;
+  border: 10px groove rgb(230, 59, 230);
+}
+h1 {
+  font-size: 60;
+  font-family: Edwardian Script ITC;
+  color: rgb(68, 1, 68);
+}
+
+.b-2 {
+  width: 50%;
+  height: 300px;
+  background-image: url("../images/y1.jpg");
+  background-size: 558px;
+  background-attachment: fixed;
+  text-align: center;
+}
+.b-3 {
+  width: 50%;
+  height: 300px;
+  background: linear-gradient(pink, purple, red);
+  border-radius: 3vmin;
+  border: 10px groove purple;
+}

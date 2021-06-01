@@ -1,0 +1,48 @@
+* {
+  margin: 0px;
+}
+body {
+  background-color: purple;
+}
+
+.post {
+  background: linear-gradient(pink, purple, yellow);
+  width: 700px;
+  margin: 50px auto 0px;
+  padding-left: 100px;
+  padding-right: 100px;
+  padding-top: 50px;
+  padding-bottom: 50px;
+  border-right: 8px solid black;
+  border-bottom: 8px solid black;
+}
+
+.post p {
+  color: powderblue;
+  font-family: candara;
+  font-style: italic;
+  margin-top: 20pt;
+}
+.post img {
+  width: 300px;
+}
+.post h1 {
+  font-size: 40px;
+  color: rgb(60, 141, 151);
+  font-family: Edwardian Script ITC;
+}
+.post h2 {
+  font-size: 40px;
+  color: rgb(37, 132, 145);
+  font-family: Edwardian Script ITC;
+}
+.post h3 {
+  font-size: 40px;
+  color: rgb(36, 121, 133);
+  font-family: Edwardian Script ITC;
+}
+.post h4 {
+  font-size: 40px;
+  color: rgb(29, 87, 95);
+  font-family: Edwardian Script ITC;
+}
